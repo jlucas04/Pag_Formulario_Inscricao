@@ -1,0 +1,16 @@
+.texto-fundepes{
+    font-size: 18px;
+    color: black;
+    font-family: 'Dosis', sans-serif;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: justify;
+}
+.titulo{
+    margin-left: 10px;
+    font-size: 25px;
+    font-family: 'Dosis', sans-serif;
+    padding-left: 20px;
+}

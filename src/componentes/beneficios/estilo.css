@@ -1,0 +1,25 @@
+.Nome{
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.images-beneficios{
+    text-align: center;
+}
+.figure-img{
+    display: inline-block;
+    margin: 0 10px; 
+}
+.img{
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin: 40px;
+    margin-bottom: 10px;
+    display: block;
+}
+.figcaption-img{
+    text-align: center;
+    
+}
