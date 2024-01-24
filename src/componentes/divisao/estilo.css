@@ -1,0 +1,8 @@
+.line {
+    margin-top: 50px;
+    height: 2px; /* Espessura da linha */
+    background-color: #e0e0e0; /* Cor da linha */
+    margin: 0;
+    font-size: 18px;
+
+}
